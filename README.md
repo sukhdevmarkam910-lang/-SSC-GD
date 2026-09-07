@@ -1,1 +1,1 @@
-# -SSC-GD
+# SSC-GD
